@@ -1,5 +1,5 @@
 {
-  "name": "3ano_exercicio02",
+  "name": "exercicio02-3ano",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/relipaba/3ano_exercicio02.git"
+    "url": "git+https://github.com/themax6600/exercicio02-3ano.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/relipaba/3ano_exercicio02/issues"
+    "url": "https://github.com/themax6600/exercicio02-3ano/issues"
   },
-  "homepage": "https://github.com/relipaba/3ano_exercicio02#readme",
+  "homepage": "https://github.com/themax6600/exercicio02-3ano#readme",
   "description": "",
   "devDependencies": {
     "grunt": "^1.6.1",
     "grunt-contrib-sass": "^2.0.0",
-    "sass": "^1.84.0"
+    "grunt-contrib-watch": "^1.1.0",
+    "sass": "^1.85.0"
   }
 }
